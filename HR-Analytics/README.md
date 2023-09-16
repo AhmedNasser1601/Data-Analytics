@@ -2,7 +2,7 @@
 >> ## **MeriSKILL - Data Analytics Internship**
 >>> ### **ahmednasser1601@gmail.com**
 
-> **Objective:** <code>Various operations on data like data cleaning and data visualization.</code>
+> **Objective:** <code>Various operations on data such as data cleaning and data visualization.</code>
 
 > <table align="center"><tr><td><a href="">LinkedIn Post</a></td><td><a href="HR-Analytics.pbit">Working File</a></td><td><a href="HR-Analytics.pdf">Analysis File</a></td></tr></table>
 
