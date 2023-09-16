@@ -4,6 +4,6 @@
 
 > **Objective:** <code>Various operations on data such as data cleaning and data visualization.</code>
 
-> <table align="center"><tr><td><a href="">LinkedIn Post</a></td><td><a href="HR-Analytics.pbit">Working File</a></td><td><a href="HR-Analytics.pdf">Analysis File</a></td></tr></table>
+> <table align="center"><tr><td><a href="">LinkedIn Post</a></td><td><a href="HR-Analytics.ipynb">Notebook</a></td><td><a href="HR-Employee-Attrition.csv">Dataset</a></td></tr></table>
 
-> <img src="Visualization.jpg"/>
+> <img src=""/>
