@@ -4,6 +4,6 @@
 
 > <table><tr><td>Project 1</td><td><a href="Sales-Data-Analysis">Sales Data Analysis</a></td></tr><tr><td>Project 2</td><td><a href="Diabetes-Patients">Diabetes Patients</a></td></tr><tr><td>Project 3</td><td><a href="HR-Analytics">HR Analytics</a></td></tr></table>
 
-> <table><tr><td>View |-> <a href="https://github.com/AhmedNasser1601/Data-Analytics/files/12643842/Offer.Letter.pdf">Offer Letter</a></td></tr></table>
+> <table><tr><td><a href="https://github.com/AhmedNasser1601/Data-Analytics/files/12643861/Offer-Letter.pdf">Download |> Offer Letter</a></td></tr></table>
 
-> <img src="https://hits.sh/github.com/AhmedNasser1601/Data-Analytics.svg?label=Visits&logo=powerbi"/>
+> <img src="https://hits.sh/github.com/AhmedNasser1601/Data-Analytics.svg?label=Website%20Visits&logo=powerbi"/>
