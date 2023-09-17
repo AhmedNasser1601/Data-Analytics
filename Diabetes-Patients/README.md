@@ -8,6 +8,8 @@
 
 > <table align="center"><tr><td><a href=""><b>LinkedIn Post</b></a></td><td><a href="Diabetes-Patients.ipynb"><b>Notebook File</b></a></td><td><a href="Diabetes.csv"><b>Dataset</b></a></td></tr></table>
 
-> <img src="Diabetes-Patients.jpg"/>
+> https://github.com/AhmedNasser1601/Data-Analytics/assets/60184582/8e0af71c-aa9e-4247-b764-cc860d5a77f5
+
+> <video controls="" autoplay="" name="media"><source src="https://github-production-user-asset-6210df.s3.amazonaws.com/60184582/268511087-8e0af71c-aa9e-4247-b764-cc860d5a77f5.mp4" type="video/mp4"></video>
 
 > **Conclusion:** <code>Feature importance analysis reveals that <b>[Glucose]</b> are the most influential in predicting diabetes. And the best model achieved an accuracy of <b>[75.97%]</b>, is <b>[RandomForestClassifier]</b>.</code>
