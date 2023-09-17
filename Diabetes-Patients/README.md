@@ -6,7 +6,7 @@
 
 > **Objective:** <code>Diagnostically predict whether a patient has diabetes based on certain diagnostic measurements included in the dataset.</code>
 
-> <table align="center"><tr><td><a href=""><b>LinkedIn Post</b></a></td><td><a href="Diabetes-Patients.ipynb"><b>Notebook File</b></a></td><td><a href="Diabetes.csv"><b>Dataset</b></a></td></tr></table>
+> <table align="center"><tr><td><a href="https://www.linkedin.com/posts/ahmednasser1601_data-analytics-activity-7109298519361957888-3cL0?utm_source=share&utm_medium=member_desktop"><b>LinkedIn Post</b></a></td><td><a href="Diabetes-Patients.ipynb"><b>Notebook File</b></a></td><td><a href="Diabetes.csv"><b>Dataset</b></a></td></tr></table>
 
 > <a href="https://github.com/AhmedNasser1601/Data-Analytics/assets/60184582/8e0af71c-aa9e-4247-b764-cc860d5a77f5"><video width="100%" controls="" autoplay="" name="media"><source src="https://github-production-user-asset-6210df.s3.amazonaws.com/60184582/268511087-8e0af71c-aa9e-4247-b764-cc860d5a77f5.mp4" type="video/mp4"></video></a>
 
