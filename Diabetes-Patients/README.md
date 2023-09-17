@@ -9,3 +9,5 @@
 > <table align="center"><tr><td><a href="">LinkedIn Post</a></td><td><a href="Diabetes-Patients.ipynb">Notebook File</a></td><td><a href="Diabetes.csv">Dataset</a></td></tr></table>
 
 > <img src="Diabetes-Patients.jpg"/>
+
+> **Conclusion:** <code>Feature importance analysis reveals that **[Glucose]** are the most influential in predicting diabetes. And the best model achieved an accuracy of **[75.97%]**, is **[RandomForestClassifier]**.</code>
