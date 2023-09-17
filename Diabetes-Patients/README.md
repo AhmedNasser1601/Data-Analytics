@@ -1,6 +1,6 @@
 > <h1 align="center">Project 2<br><b>Diabetes Patients</b></h1>
 
-> [<img height=100 src="https://lh6.googleusercontent.com/FfFC3NgZ12Q8rOD9B_HuVWwhkbzHsY64IL-jz2F6aCdN8PYVst0Tt4_qbKxXRoW_cdvTvkp2rqagB-ZKQem-oGk=w16383">](https://www.meriskill.com)
+> [<img alt="MeriSKILL" height=100 src="https://lh6.googleusercontent.com/FfFC3NgZ12Q8rOD9B_HuVWwhkbzHsY64IL-jz2F6aCdN8PYVst0Tt4_qbKxXRoW_cdvTvkp2rqagB-ZKQem-oGk=w16383">](https://www.meriskill.com)
 >> ## **[Data Analytics](https://github.com/AhmedNasser1601/Data-Analytics) Internship**
 >>> ### **[ahmednasser1601@gmail.com](mailto:ahmednasser1601@gmail.com)**
 
