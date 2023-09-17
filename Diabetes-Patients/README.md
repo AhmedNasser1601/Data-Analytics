@@ -8,8 +8,8 @@
 
 > <table align="center"><tr><td><a href=""><b>LinkedIn Post</b></a></td><td><a href="Diabetes-Patients.ipynb"><b>Notebook File</b></a></td><td><a href="Diabetes.csv"><b>Dataset</b></a></td></tr></table>
 
-> https://github.com/AhmedNasser1601/Data-Analytics/assets/60184582/8e0af71c-aa9e-4247-b764-cc860d5a77f5
+> <p align="center"><video width="95%" controls="" autoplay="" name="media"><source src="https://github-production-user-asset-6210df.s3.amazonaws.com/60184582/268511087-8e0af71c-aa9e-4247-b764-cc860d5a77f5.mp4" type="video/mp4"></video></p>
 
-> <video controls="" autoplay="" name="media"><source src="https://github-production-user-asset-6210df.s3.amazonaws.com/60184582/268511087-8e0af71c-aa9e-4247-b764-cc860d5a77f5.mp4" type="video/mp4"></video>
+> <a href="https://github.com/AhmedNasser1601/Data-Analytics/assets/60184582/8e0af71c-aa9e-4247-b764-cc860d5a77f5"><p align="center"><img width="95%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/60184582/268514394-732c6399-ba31-4e62-a98b-5d6c1873abf5.jpg"></p></a>
 
 > **Conclusion:** <code>Feature importance analysis reveals that <b>[Glucose]</b> are the most influential in predicting diabetes. And the best model achieved an accuracy of <b>[75.97%]</b>, is <b>[RandomForestClassifier]</b>.</code>
