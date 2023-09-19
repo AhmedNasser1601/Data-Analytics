@@ -1,6 +1,6 @@
 > <h1 align="center">Project 3<br><b>HR Analytics</b></h1>
 
-> [<img alt="MeriSKILL" height=100 src="https://lh6.googleusercontent.com/FfFC3NgZ12Q8rOD9B_HuVWwhkbzHsY64IL-jz2F6aCdN8PYVst0Tt4_qbKxXRoW_cdvTvkp2rqagB-ZKQem-oGk=w16383">](https://www.meriskill.com)
+> <a href="https://www.meriskill.com"><img alt="MeriSKILL" height=100 src="https://github-production-user-asset-6210df.s3.amazonaws.com/60184582/269013393-8e3ddb47-1ede-4cd0-ada1-2a42ece3be46.gif"/></a>
 >> ## **[Data Analytics](https://github.com/AhmedNasser1601/Data-Analytics) Internship**
 >>> ### **[ahmednasser1601@gmail.com](mailto:ahmednasser1601@gmail.com)**
 
