@@ -2,7 +2,7 @@
 > ## **[Data Analytics](https://github.com/AhmedNasser1601/Data-Analytics) Internship**
 >> ### **[ahmednasser1601@gmail.com](mailto:ahmednasser1601@gmail.com)**
 
-> <table><tr><td>Project 1</td><td><a href="Sales%20Data%20Analysis">Sales Data Analysis</a></td></tr><tr><td>Project 2</td><td><a href="Diabetes%20Patients">Diabetes Patients</a></td></tr><tr><td>Project 3</td><td><a href="HR%20Analytics">HR Analytics</a></td></tr></table>
+> <table><tr><td>Project 1</td><td><a href="Sales-Data-Analysis">Sales Data Analysis</a></td></tr><tr><td>Project 2</td><td><a href="Diabetes-Patients">Diabetes Patients</a></td></tr><tr><td>Project 3</td><td><a href="HR-Analytics">HR Analytics</a></td></tr></table>
 
 > <table><tr><td><a href="https://github.com/AhmedNasser1601/Data-Analytics/files/12643861/Offer-Letter.pdf">Download |> Offer Letter</a></td></tr></table>
 
